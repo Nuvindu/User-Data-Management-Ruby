@@ -27,6 +27,8 @@ yarn start
 
 https://www.youtube.com/watch?v=kSlJH3hrV58&t=166s
 
+https://www.youtube.com/watch?v=1eNrZFXH9X8&t=573s
+
 https://web-crunch.com/posts/how-to-use-graphql-with-ruby-on-rails-part-2
 
 https://graphql-ruby.org/guides#subscriptions-guides
